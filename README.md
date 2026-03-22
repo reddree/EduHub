@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+# 🎓 EduHub — Образовательная платформа
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Современное веб-приложение для поиска и управления учебными курсами, построенное на **Vue 3** и **Bulma CSS**. 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## ✨ Основные возможности
+* **Каталог курсов:** Динамическая сетка курсов с главной страницы (Веб-разработка, Дизайн, Data Science и др.).
+* **Управление контентом:** Возможность добавлять новые курсы через интерактивную форму (название, описание, цена, теги).
+* **Фильтрация:** Быстрый поиск курсов по категориям (Программирование, Дизайн, Маркетинг).
+* **Интерактивный FAQ:** Раздел с часто задаваемыми вопросами в формате аккордеона.
+* **Адаптивный дизайн:** Интерфейс полностью оптимизирован под мобильные устройства благодаря Bulma.
+
+## 🛠 Технологии
+* [Vue 3](https://vuejs.org/) (Composition API, SFC)
+* [Vite](https://vitejs.dev/) (Сборка проекта)
+* [Bulma](https://bulma.io/) (CSS-фреймворк)
+* [Font Awesome 6](https://fontawesome.com/) (Иконки)
+* [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Посмотреть проект вживую:** [https://reddree.github.io/EduHub/](https://reddree.github.io/EduHub/)
